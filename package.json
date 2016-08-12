@@ -1,13 +1,27 @@
 {
-	"name": "bookstore-webcrawler",
-	"version": "0.0.0",
-	"description": "A simple book store webcrawler",
-	"main": "crawler.js",
-	"author": "Olivia",
-	"license": "ISC",
-	"dependencies": {
-		"cheerio": "^0.19.0",
-		"url-parse": "^1.0.5",
-		"request": "^2.65.0"
-	}
+  "name": "bookstore-webcrawler",
+  "version": "0.0.0",
+  "description": "A simple book store webcrawler",
+  "main": "crawler.js",
+  "author": "Olivia",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "url-parse": "^1.0.5",
+    "request": "^2.65.0"
+  },
+  "scripts": {
+    "test": "No test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrystalBai/MyModule.git"
+  },
+  "keywords": [
+    "ku"
+  ],
+  "bugs": {
+    "url": "https://github.com/KrystalBai/MyModule/issues"
+  },
+  "homepage": "https://github.com/KrystalBai/MyModule#readme"
 }
